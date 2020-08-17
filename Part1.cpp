@@ -1,6 +1,5 @@
 #include <big.h>
 #include <flash.h>
-#include <miracl.h>
 #include <iostream>
 #include <zzn.h>
 Miracl precision(3072,2);
