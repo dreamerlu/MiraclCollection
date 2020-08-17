@@ -5,7 +5,6 @@
 */
 #include <big.h>
 #include <ecn.h>
-#include <miracl.h>
 #include <mirdef.h>
 #include <iostream>
 #include <fstream>
